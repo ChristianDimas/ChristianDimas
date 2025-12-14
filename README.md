@@ -47,14 +47,13 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
 
 <tr>
 <td width="48%" valign="top">
-  <h3 align="center">Hike</h3>
+  <h3 align="center">Passion Project #1</h3>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/1b860f2e-2e7c-4302-a4ab-2ecd5d4457ec" 
-         alt="Hike Gameplay" width="400" height="225"/>
+    <img src=["https://github.com/user-attachments/assets/1b860f2e-2e7c-4302-a4ab-2ecd5d4457ec](https://github.com/user-attachments/assets/c940d682-a2d1-43a3-9d00-26772c6ba497)" 
+        width="400" height="225"/>
   </p>
   <p>
-    Hike is a 2D Pixelated Platformer game where the player needs to traverse many platforms and difficult terrain to go up towards the final destination. I did this project solo, so I'm responsible for the game design, art, and the programming side, but I got my SFXs from outside sources.
-  </p>
+    This project is a side project of mine where I made a manga-style cutscene system that uses manga pages as a way to present a cinematic experience. Aside from that, I also made a dialogue system that also fits the manga aesthetic.  </p>
   <p>
     Project Link: <a href="https://github.com/ChristianDimas/Hike.git">click here</a>
   </p>
