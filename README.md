@@ -21,7 +21,7 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
   <p>
     This project is a side project of mine where I made a manga-style cutscene system that uses manga pages as a way to present a cinematic experience. Aside from that, I also made a dialogue system that also fits the manga aesthetic.  </p>
   <p>
-    Project Link: <a href="https://github.com/ChristianDimas/Passion-Project-1.git">click here</a>
+    Project Link: <a href="https://github.com/ChristianDimas/Passion-Project-1.git">click here</a> | Showcase: <a href="https://www.instagram.com/reel/DSQIRCGEjNd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">click here</a>
   </p>
 </td>
 
