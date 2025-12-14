@@ -49,7 +49,7 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
 <td width="48%" valign="top">
   <h3 align="center">Passion Project #1</h3>
   <p align="center">
-    <img src=["https://github.com/user-attachments/assets/1b860f2e-2e7c-4302-a4ab-2ecd5d4457ec](https://github.com/user-attachments/assets/c940d682-a2d1-43a3-9d00-26772c6ba497)" 
+    <img src="https://github.com/user-attachments/assets/1b860f2e-2e7c-4302-a4ab-2ecd5d4457ec](https://github.com/user-attachments/assets/c940d682-a2d1-43a3-9d00-26772c6ba497)" 
         width="400" height="225"/>
   </p>
   <p>
