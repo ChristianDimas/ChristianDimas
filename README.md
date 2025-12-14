@@ -3,11 +3,10 @@
 ## 📌 About Me
 Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an undergraduate student at Binus University, majoring in Game Application and Technology, and based in Jakarta, Indonesia. I have a long-standing passion for game development, especially game design and programming, and am constantly improving myself in both skills and knowledge.
 
-## ⚙️ Skills
-- 👨‍💻C# Unity Game Development
+## ⚙️ Game Dev Skills
+- 👨‍💻C# Unity Game Development, specializing in cutscene and dialogue script-making
 - ✍️Game Design
 - 🎨2D Pixelated Game Art
-- 🖥️HTML, CSS, PHP (Laravel) Web Development
 
 ## 🚀 Projects
 
