@@ -8,6 +8,11 @@ Hello! I'm Christian Dimas Sidauruk, usually called Christian or Dimas. I'm an u
 - ✍️Game Design
 - 🎨2D Pixelated Game Art
 
+## 📱 Contacts
+- WhatsApp: https://wa.me/+6281563832997
+- Discord: @preem_plutonium
+- Instagram: https://www.instagram.com/chrstds/
+
 ## 🚀 Projects
 
 <table>
